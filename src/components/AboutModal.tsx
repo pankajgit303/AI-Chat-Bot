@@ -66,7 +66,7 @@ export function AboutModal({ isOpen, onClose }: AboutModalProps) {
                 <div className="shrink-0">
                   <div className="w-24 h-24 rounded-full overflow-hidden border-2 border-blue-500 shadow-md">
                     <img 
-                      src="/developer.png" 
+                      src="/file_00000000640c821185cb8dd631d02e1d.png" 
                       alt="Pankaj Singha" 
                       className="w-full h-full object-cover bg-slate-100 dark:bg-slate-800"
                       onError={(e) => {
