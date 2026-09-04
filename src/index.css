@@ -4,7 +4,9 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @layer base {
-  html, body, #root {
-    @apply h-full m-0;
+  html,
+  body,
+  #root {
+    @apply h-[100dvh] m-0;
   }
 }
