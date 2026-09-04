@@ -23,8 +23,7 @@ async function startServer() {
       }
 
       const ai = new GoogleGenAI({ 
-        apiKey,
-        httpOptions: { headers: { 'User-Agent': 'aistudio-build' } }
+        apiKey
       });
 
       // Set headers for Server-Sent Events (SSE)
