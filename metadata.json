@@ -1,0 +1,6 @@
+{
+  "name": "AI ChatBot – Intelligent Virtual Assistant",
+  "description": "An academic AI chatbot project developed to explore conversational AI, API integration, and modern web application development. Uses Google's Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
